@@ -1,32 +1,9 @@
-# Mintlify Starter Kit
+![Discord Shield](https://discord.com/api/guilds/1239865508417765386/widget.png?style=shield)
+# dxsign Sideload Wiki
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+This wiki is currently being actively updated, and some guides may become outdated or may need changes made. Feel free to contribute!
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+If you find an issue but don't know how to contribute, let us know in our discord!
 
-### Development
-
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
-
-```
-npm i -g mintlify
-```
-
-Run the following command at the root of your documentation (where mint.json is)
-
-```
-mintlify dev
-```
-
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+dxsign is an iOS signing service, allowing users to free their device buy sideloading apps without Apples tight grasp.
+If you would like to free your device yourself, head to https://dxsign.cc 
