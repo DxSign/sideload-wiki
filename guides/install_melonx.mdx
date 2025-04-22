@@ -5,7 +5,7 @@ description: "MeloNX is a switch emulator for iOS that allows you to play most S
 ---
 
 <Note>
-  You should already have a signing app installed, whether it be Feather or eSign. Please go to our other guides and install one if you haven't already.
+  You should already have a signing app installed, Please go to our other guides and install one if you haven't already.
 </Note>
 
 <Warning>
@@ -15,8 +15,33 @@ description: "MeloNX is a switch emulator for iOS that allows you to play most S
 
 ## Download the MeloNX .ipa
 
-Download the latest release of MeloNX from the releases page on their GitHub below.&#x20;
+Download the latest release of MeloNX from the releases page on their Git below.&#x20;
 
 ```
 https://git.743378673.xyz/MeloNX/MeloNX/releases/
 ```
+
+## Install using Feather
+
+<Warning>
+You must have your Debug Certificate imported into Feather! If not, you will be unable to enable JIT.
+Please import your JIT certificate if you haven't already, you can download it from https://dxsign.cc/manage
+</Warning>
+
+Import that app in the library section by tapping import, and then tapping on the file in your recent files.
+![](/import.gif)
+
+After importing it should appear in your library as normal.
+Tap on the app, tap sign, and then after it completes signing, tap on it again, and tap install.
+After installing you should see MeloNX on your home screen!
+
+BUT WAIT. You still need a method of enabling JIT! For this guide we will be setting up StikJIT.
+
+## Setting up StikJIT
+
+StikJIT is an app that allows you to enable JIT without even needing a seperate server or PC to connect to first.
+
+To use StikJIT you will need the following:
+
+Access to a Windows PC or Mac (This is only needed for SETUP, and will not be needed after)
+StosVPN from the iOS AppStore, which you can find [here](https://apps.apple.com/us/app/stosvpn/id6744003051)
