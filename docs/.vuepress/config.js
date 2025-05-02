@@ -8,16 +8,19 @@ export default defineUserConfig({
   title: "sideload.wiki",
   description: "Welcome to sideload.wiki!",
 
+  host: "https://sideload.wiki",
+
   theme: defaultTheme({
+    hostname: "https://sideload.wiki",
     logo: "/logo.webp",
     colorMode: "dark",
     colorModeSwitch: false,
     navbar: ["/", "/guide/", "/faq/"],
-    docsRepo: "https://github.com/DxSign/sideload-wiki",
+    repo: "https://github.com/DxSign/sideload-wiki",
     sidebar: {
-      '/guide/': [
+      "/guide/": [
         {
-          text: 'Guides',
+          text: "Guides",
           // prefix will be prepended to relative paths
           children: [
             "feather.md",
@@ -28,17 +31,13 @@ export default defineUserConfig({
           ],
         },
       ],
-      '/faq/': [
+      "/faq/": [
         {
-          text: 'Frequently Asked Questions',
-          children: [
-            "dxsign.md",
-            "general.md",
-          ],
+          text: "Frequently Asked Questions",
+          children: ["dxsign.md", "general.md"],
         },
       ],
     },
-
   }),
 
   bundler: viteBundler(),
