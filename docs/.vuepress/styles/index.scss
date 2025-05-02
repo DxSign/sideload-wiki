@@ -32,3 +32,21 @@
   --vp-button-brand-hover-text: #f2f7fb;
   --vp-button-brand-hover-bg: #4a5989;
 }
+
+/* Customize nprogress color */
+#nprogress {
+  .bar {
+    background-color: var(--vp-c-accent) !important;
+  }
+  
+  .peg {
+    box-shadow: 0 0 10px var(--vp-c-accent), 0 0 5px var(--vp-c-accent) !important;
+  }
+  
+  .spinner-icon {
+    border-top-color: var(--vp-c-accent) !important;
+    border-left-color: var(--vp-c-accent) !important;
+  }
+}
+
+
