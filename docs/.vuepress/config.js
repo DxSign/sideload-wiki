@@ -8,10 +8,9 @@ export default defineUserConfig({
   title: "sideload.wiki",
   description: "Welcome to sideload.wiki!",
 
-  host: "https://sideload.wiki",
+  base: "/sideload-wiki/",
 
   theme: defaultTheme({
-    hostname: "https://sideload.wiki",
     logo: "/logo.webp",
     colorMode: "dark",
     colorModeSwitch: false,
