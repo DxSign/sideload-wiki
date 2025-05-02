@@ -1,0 +1,34 @@
+[data-theme="dark"] {
+  // brand colors
+  --vp-c-accent: #6a7fc1;
+  --vp-c-accent-bg: #6374ae;
+  --vp-c-accent-hover: #4a5989;
+  --vp-c-accent-soft: rgba(106, 127, 193, 0.16);
+
+  // background colors
+  --vp-c-bg: #212331;
+  --vp-c-bg-alt: #414e6e;
+  --vp-c-bg-elv: #4a5989;
+
+  // text colors
+  --vp-c-text: #f2f7fb;
+  --vp-c-text-mute: #e7f0f8;
+  --vp-c-text-subtle: #d3e2f2;
+
+  // border colors
+  --vp-c-gutter: #414e6e;
+  --vp-c-border: #262c40;
+  --vp-c-border-hard: #839dd1;
+
+  // shadow color
+  --vp-c-shadow: rgba(38, 44, 64, 0.3);
+
+  // control colors
+  --vp-c-control: rgba(155, 182, 221, 0.12);
+  --vp-c-control-hover: rgba(155, 182, 221, 0.18);
+  --vp-c-control-disabled: #4a5989;
+
+  // fix for button text color on hover
+  --vp-button-brand-hover-text: #f2f7fb;
+  --vp-button-brand-hover-bg: #4a5989;
+}
