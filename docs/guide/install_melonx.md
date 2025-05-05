@@ -52,7 +52,7 @@ BUT WAIT. You still need a method of enabling JIT! For this guide we will be set
 
 ## Setting up StikDebug
 
-StikJIT is an app that allows you to enable JIT without even needing a separate server or PC to connect to first.
+StikDebug is an app that allows you to enable JIT without even needing a separate server or PC to connect to first.
 
 ### To use StikDebug you will need the following:
 
