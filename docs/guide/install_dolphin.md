@@ -45,7 +45,7 @@ Tap on the app, tap sign, and then after it completes signing, tap on it again, 
 
 After installing you should see DolphiniOS on your home screen!
 
-BUT WAIT. You still need a method of enabling JIT! For this guide we will be setting up StikDebug.
+Hold on — you still need a way to enable JIT! In this guide, we'll walk you through setting up StikDebug.
 
 ## Setting up StikDebug
 
