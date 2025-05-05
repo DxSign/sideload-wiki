@@ -50,16 +50,15 @@ After installing you should see MeloNX on your home screen!
 
 BUT WAIT. You still need a method of enabling JIT! For this guide we will be setting up StikJIT.
 
-## Setting up StikJIT
+## Setting up StikDebug
 
 StikJIT is an app that allows you to enable JIT without even needing a separate server or PC to connect to first.
 
-### To use StikJIT you will need the following:
+### To use StikDebug you will need the following:
 
 - Access to a Windows PC or Mac (This is only needed for SETUP, and will not be needed after)
 - On said PC you will need to download Jitterbug Pair, available [here](https://github.com/osy/Jitterbug/releases/)
-- StosVPN from the iOS AppStore, which you can find [here](https://apps.apple.com/us/app/stosvpn/id6744003051)
-- StikJIT's .ipa, which you can find [here](https://github.com/StephenDev0/StikJIT/releases/)
+- Download StikDebug from the App Store: [here](https://apps.apple.com/us/app/stikdebug/id6744045754)
 
 ### Setup
 
@@ -85,18 +84,17 @@ StikJIT is an app that allows you to enable JIT without even needing a separate 
 >
 > If you update your device, this file will become invalid, and you will need to redo these steps.
 
-### Installing StikJIT
+### Installing StikDebug
 
-Use Feather along with your DEBUG certificate to install StikJIT the same way you installed MeloNX, if you need the instructions just scroll back up.
+Just download it from the App Store, link is above. 
 
-### Enabling JIT with StikJIT
+### Enabling JIT with StikDebug
 
 Once you've completed all the steps above, all you need to do is the following:
 
-1. Activate StosVPN by opening the app, and activating it
-2. Open MeloNX in the background
-3. Open StikJIT, and import the pairing file we got from JitterBug Pair earlier (If you sent it to yourself in a Zip, Unzip it in the files app)
-4. Tap Activate JIT, and tap MeloNX.
+1. Open MeloNX in the background
+2. Open StikDebug, and import the pairing file we got from JitterBug Pair earlier (If you sent it to yourself in a Zip, Unzip it in the files app)
+3. Tap Connect, and tap MeloNX.
 
 ## Get around the bugs
 
