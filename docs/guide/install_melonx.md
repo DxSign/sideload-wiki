@@ -48,7 +48,7 @@ Tap on the app, tap sign, and then after it completes signing, tap on it again, 
 
 After installing you should see MeloNX on your home screen!
 
-BUT WAIT. You still need a method of enabling JIT! For this guide we will be setting up StikJIT.
+BUT WAIT. You still need a method of enabling JIT! For this guide we will be setting up StikDebug.
 
 ## Setting up StikDebug
 
