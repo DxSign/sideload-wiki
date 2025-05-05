@@ -37,8 +37,6 @@ https://github.com/oatmealdome/DolphiniOS/releases
 
 Import the app in the library section by tapping import, and then tapping on the file in your recent files.
 
-![Import](/images/dolphinios/import.gif)
-
 After importing it should appear in your library as normal.
 
 Tap on the app, tap sign, and then after it completes signing, tap on it again, and tap install.
