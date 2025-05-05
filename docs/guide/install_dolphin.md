@@ -1,8 +1,8 @@
-
 ---
 title: "Play GameCube & Wii Games with DolphiniOS!"
 description: "DolphiniOS is a GameCube and Wii emulator for iOS that allows you to play most games on modern iOS devices."
 ---
+
 
 # Play GameCube & Wii Games with DolphiniOS!
 
