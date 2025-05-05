@@ -25,7 +25,7 @@ Before diving into specific app guides, make sure you have:
 ### Emulators
 
 - [MeloNX](/guide/install_melonx.html) - Play Nintendo Switch games on iOS and iPadOS
-- [Dolphin](/guide/install_doplhin.html) - Play Nintendo Wii and GameCube games on iOS and iPadOS
+- [Dolphin](/guide/install_dolphin.html) - Play Nintendo Wii and GameCube games on iOS and iPadOS
 
 ## Frequently Asked Questions
 
