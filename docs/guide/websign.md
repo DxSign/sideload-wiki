@@ -9,6 +9,7 @@ Web signers provide an alternative method for signing iOS apps, allowing you to 
 
 ## Available Web Signers
 
+- [Jims Signer](https://signer.jimdude.com)
 - [IPASign](https://sign.ipasign.cc)
 - [Kravasigner](https://kravasigner.com)
 
