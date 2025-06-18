@@ -101,10 +101,10 @@ Once you've completed all the steps above, all you need to do is the following:
 To get around the current bugs with MeloNX, first you'll need to do the following:
 
 1. Find your prod.keys and title.keys file, then move them to the "System" folder in the MeloNX folder on your device. The MeloNX folder should be in your On My iPhone/iPad folder.
-2. Download [this](https://drive.google.com/file/d/1eF_OMuHxMBdqf5X5lMVyc24ds9YbOo3D/view?usp=sharing) file from Google Drive.
+2. Find your firmware and use [Ryujinx](https://ryujinx.app) on macOS, Linux or Windows to add your firmware then copy bis folder over to the device.
 3. Extract it, and then in your files app move the extracted folder to the MeloNX folder as well, and tap replace when it asks you to.
 4. Finally, if you are going to import any games, simply just move them into the ROMs folder within the MeloNX folder instead of importing them through the app. There is no say at the moment when these bugs will be fixed, but when they are, you will be able to import games through the app directly.
 
 ### You've now got JIT activated, and can play any Switch games you want once you import the ROMs!
 
-> **Note**: We will NOT give you websites or links to obtain Nintendo Switch rom files. You are on your own in obtaining them.
+> **Note**: We will NOT give you websites or links to obtain Nintendo Switch rom, firmware and keys files. You are on your own in obtaining them.
