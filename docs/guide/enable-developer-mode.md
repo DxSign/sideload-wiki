@@ -17,7 +17,7 @@ This is required for anything sideloading related.
 
 # How to fix developer mode not showing in Privacy & Security
 
-1. Installing a app via the websigner
+1. Install a app via a [websigner](https://ipasign.pro)
 2. Navigate to Settings then Privacy & Security, and the Developer Mode setting should appear.
 
 OR
