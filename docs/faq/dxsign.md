@@ -24,6 +24,10 @@ This means that Apple is taking longer to process your device, which is beyond o
 
 This means your device is flagged by the Apple Developer Program and cannot be used or fully registered for a period of 14 to 30 days. Common reasons for this include signing up with a similar signing provider (e.g., Signulous). Devices can only be unblacklisted by re-registering them and waiting for the blacklist period to lift, which will make their UDID available for full registration again. Unfortunately, we cannot determine if your device is blacklisted until after 3 days of registration. You will receive an email regarding this issue and instructions on how to proceed.
 
+### Where can I find my dxsign support id?
+
+Login to [dxsign](https://dxsign.cc), click your profile picture, then click manage account.
+
 ### How does instant delivery work?
 
 The first 10 devices registered under our accounts are processed instantly by Apple, and we filter purchases accordingly.
