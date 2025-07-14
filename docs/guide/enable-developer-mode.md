@@ -15,16 +15,7 @@ This is required for anything sideloading related.
 ![Turn On Developer Mode](/images/others/turn_on_developer_mode.png)
 
 
-# How to fix developer mode not showing in Privacy & Security
+# Fix developer mode toggle not appearing
 
-1. Install a app via a [websigner](https://ipasign.pro)
-2. Navigate to Settings then Privacy & Security, and the Developer Mode setting should appear.
-
-OR
-
-1. Connect your device to a Mac/Macbook
-2. Trust the Mac on your device
-3. Download & Open Xcode
-4. Go to Window -> Devices And Simulators from the Xcode menu.
-5. Unplug and replug your phone into the Mac.
-6. Navigate to Settings then Privacy & Security, and the Developer Mode setting should appear.
+1. Install a app via a [websigner](https://sideload.wiki/guide/websign.html)
+2. Open the Settings app and then Privacy & Security. The Developer Mode toggle should appear at the bottom.
