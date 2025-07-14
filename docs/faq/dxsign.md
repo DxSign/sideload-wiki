@@ -18,7 +18,7 @@ We provide all available entitlements to every customer. If you're here for Fort
 
 ### I recently made a purchase, and it's been 72 hours without receiving an email.
 
-This means that Apple is taking longer to process your device, which is beyond our control. You will receive an email eventually, so please be patient. If it has been more than 4 days, we recommend creating a support ticket, and we will investigate the issue for you.
+This means that Apple is taking longer to process your device, which is beyond our control. You will receive an email eventually, so please be patient. If it has been more than 4 days, we recommend creating a support ticket in our [Discord Support](https://discord.gg/n9gCG3U5Yf), and we will investigate the issue for you.
 
 ### My dashboard indicates that my device has been blacklisted.
 
@@ -26,12 +26,12 @@ This means your device is flagged by the Apple Developer Program and cannot be u
 
 ### How does instant delivery work?
 
-The first 10 devices registered under our accounts are processed instantly, and we filter purchases accordingly.
+The first 10 devices registered under our accounts are processed instantly by Apple, and we filter purchases accordingly.
 
 ### How can I pay via other payment method?
 
-Please create a support ticket in our Discord server, and we will check if we can accept your preferred payment method. We will provide you with a voucher that you can redeem on our website.
+Please create a support ticket in our [Discord Support](https://discord.gg/n9gCG3U5Yf), and we will check if we can accept your preferred payment method. We will provide you with a voucher that you can redeem on our website after you pay.
 
 ### How does revoke protection work?
 
-If any of our accounts get revoked, we will transfer your existing device to another account that we own. If you didn't select this option, you'll need to make a new purchase.
+If the account you're on get revoked, we will transfer your existing device to another account that we own. If you didn't select this option, you'll need to make a new purchase.
