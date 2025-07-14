@@ -33,4 +33,4 @@ If you have questions about sideloading or our services, check out our [FAQ sect
 
 ## Need Help?
 
-If you encounter any issues following these guides or have suggestions for new content, please join our Discord community for support.
+If you encounter any issues following these guides or have suggestions for new content, please join our [Discord Support](https://discord.gg/n9gCG3U5Yf).
